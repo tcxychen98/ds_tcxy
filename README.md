@@ -1,2 +1,2 @@
-# fyp
-My final year project, involving machine learning using Pandas/Matplot
+# Journey
+My projects/assignments that I have done so far
